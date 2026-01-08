@@ -303,6 +303,15 @@
       margin-bottom: 20px;
   }
 
+  .founder-image {
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+
   /* FORM */
   .contact-form {
       max-width: 600px;
